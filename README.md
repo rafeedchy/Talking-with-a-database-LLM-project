@@ -19,6 +19,8 @@ In this project, I created a streamlit app that talks with the database, convert
 ## Use Case
 For the industrial setting, a stakeholder of a company who doesn't know SQL can run a detailed prompt in the inpput field and corresponding queries will be created and specified information can be retrieved from database. Decision making will be easier, reporting can be done just like talking with a database.
 
+![Example of running the app with streamlit](demo.png)
+
 ## Tools and Technology 
 1. Google Palm LLM model
 2. Mysql Workbench
